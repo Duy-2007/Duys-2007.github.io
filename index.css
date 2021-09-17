@@ -440,7 +440,7 @@ a{text-decoration: none;color: black;}
     left: 613px;
     transition: var(--time_2);
 }
-.trade_Page .trade_Page_button a h2{
+.trade_Page .trade_Page_button  h2{
     font-family: var(--font_2);
     font-size: 17px;
     text-align: center;
